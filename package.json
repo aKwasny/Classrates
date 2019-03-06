@@ -6,9 +6,9 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "ejs": "*",
-    "express": "3.3.5",
+    "express": "^3.21.2",
     "jquery": "3.3.1"
   }
 }
